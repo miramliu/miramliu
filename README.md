@@ -4,3 +4,4 @@
 - I'm available at mirabai.liu@mountsinai.org, https://www.linkedin.com/in/miramliu/, and https://miramliu.com/
 - Some of my work is shown here: https://www.researchgate.net/profile/Mira-Liu-3, and https://scholar.google.com/citations?user=QwzVJikAAAAJ&hl=en
 - A public open-source repository of code developed and used during my PhD with Dr. Timothy Carroll is available and managed by me at https://github.com/tjcarroll-lab/T1Bookend-DSC-Perfusion 
+- a public open-source repository of code developed and used for spectral diffusion during my Post Doc with Drs. Bane, Lewis, and Taouli is available at https://github.com/miramliu/Spectral_Diffusion
